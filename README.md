@@ -1,16 +1,15 @@
-
-End-to-end Data Analysis project using Python, SQL, and Power BI on Blinkit Grocery dataset.
-
-
-
 # Blinkit Sales & Business Performance Analysis
 
-## Project Overview
+End-to-end retail sales analysis project using Python, MySQL, and Power BI on the Blinkit Grocery dataset.
+
+---
+
+##  Project Overview
 This project presents an end-to-end retail sales analysis performed on the Blinkit Grocery dataset using Python, MySQL, and Power BI. The analysis focuses on identifying sales trends, product performance, customer purchasing patterns, and outlet-level business insights to support data-driven decision-making.
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 - Python (Pandas, NumPy)
 - Matplotlib & Seaborn
 - MySQL
@@ -20,7 +19,7 @@ This project presents an end-to-end retail sales analysis performed on the Blink
 
 ---
 
-## Project Workflow
+##  Project Workflow
 - Performed data cleaning and preprocessing using Python Pandas
 - Handled missing values and validated dataset consistency
 - Conducted exploratory data analysis (EDA) to identify sales trends and category performance
@@ -40,7 +39,12 @@ This project presents an end-to-end retail sales analysis performed on the Blink
 
 ---
 
-##  Dashboard Highlights
+## Dashboard Preview
+![Dashboard Preview](dashboard.png)
+
+---
+
+## Dashboard Highlights
 The Power BI dashboard includes:
 - Total Sales KPI
 - Total Orders KPI
@@ -56,18 +60,18 @@ The Power BI dashboard includes:
 ##  Project Files
 - `blinkit.ipynb` → Data cleaning and EDA using Python
 - `blinkit_analysis.sql` → SQL business analysis queries
-- `blinkit_dashboard.pbix` → Interactive Power BI dashboard
+- `blink_it dashboard.pbix` → Interactive Power BI dashboard
 - `dashboard.png` → Dashboard preview image
-- `cleaned_blinkit.csv` → Cleaned dataset used for analysis
+- `cleaned_Blinkit.csv` → Cleaned dataset used for analysis
 - `screenshots/` → SQL query output screenshots
 
 ---
 
-##  Conclusion
+## Conclusion
 This project demonstrates practical experience in data cleaning, SQL-based business analysis, dashboard development, and insight generation. It showcases the ability to transform raw retail data into meaningful business intelligence using industry-standard data analytics tools.
 
 ---
 
-##  Author
+## Author
 Pavan Kumar  
 Aspiring Data Analyst
