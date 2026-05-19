@@ -1,4 +1,4 @@
-# blinkit-data-analysis-project
+
 End-to-end Data Analysis project using Python, SQL, and Power BI on Blinkit Grocery dataset.
 
 
