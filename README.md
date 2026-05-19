@@ -30,7 +30,7 @@ This project presents an end-to-end retail sales analysis performed on the Blink
 
 ---
 
-## 📊 Key Business Insights
+## Key Business Insights
 - Fruits & Vegetables emerged as the highest revenue-generating category
 - Snack Foods showed strong and consistent sales contribution
 - Low Fat products generated significantly higher sales compared to Regular products
@@ -40,7 +40,7 @@ This project presents an end-to-end retail sales analysis performed on the Blink
 
 ---
 
-## 📈 Dashboard Highlights
+##  Dashboard Highlights
 The Power BI dashboard includes:
 - Total Sales KPI
 - Total Orders KPI
@@ -53,7 +53,7 @@ The Power BI dashboard includes:
 
 ---
 
-## 📁 Project Files
+##  Project Files
 - `blinkit.ipynb` → Data cleaning and EDA using Python
 - `blinkit_analysis.sql` → SQL business analysis queries
 - `blinkit_dashboard.pbix` → Interactive Power BI dashboard
@@ -63,11 +63,11 @@ The Power BI dashboard includes:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 This project demonstrates practical experience in data cleaning, SQL-based business analysis, dashboard development, and insight generation. It showcases the ability to transform raw retail data into meaningful business intelligence using industry-standard data analytics tools.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 Pavan Kumar  
 Aspiring Data Analyst
