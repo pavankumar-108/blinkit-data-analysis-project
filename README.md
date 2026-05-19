@@ -9,7 +9,7 @@ This project presents an end-to-end retail sales analysis performed on the Blink
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python (Pandas, NumPy)
 - Matplotlib & Seaborn
 - MySQL
