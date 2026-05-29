@@ -61,6 +61,7 @@ The Power BI dashboard includes:
 - `blinkit.ipynb` → Data cleaning and EDA using Python
 - `blinkit_analysis.sql` → SQL business analysis queries
 - `Advance-SQL/BLINKIT_ADVANCE_QUERY.sql` →  Advanced Window Functions & CTEs
+- `Advance-SQL/ADVANCE_SQL_SCREENSHOTS/` → Advanced SQL Query Output Screenshots
 - `blink_it dashboard.pbix` → Interactive Power BI dashboard
 - `dashboard.png` → Dashboard preview image
 - `cleaned_Blinkit.csv` → Cleaned dataset used for analysis
