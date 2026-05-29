@@ -79,7 +79,7 @@ Upgraded from basic queries to solve complex business problems using Window Func
 | 5 | Subquery + HAVING | Outlets above company average |
 
 ### Sample Output - Segment Ranking
-![Top 3 Items by Outlet Type](Advance-SQL/ADVANCE_SQL_SCREENSHOTS/2_RANK_Top3_Item_By_FatContent.png)
+![Top 3 Items by Outlet Type](Advance-SQL/ADVANCE_SQL_SCREENSHOTS/2_RANK_Top3_Items_By_OutletType.png)
 
 **View Code:** [Advance-SQL/BLINKIT_ADVANCE_QUERY.sql](./Advance-SQL/BLINKIT_ADVANCE_QUERY.sql)
 
