@@ -60,7 +60,7 @@ The Power BI dashboard includes:
 ##  Project Files
 - `blinkit.ipynb` → Data cleaning and EDA using Python
 - `blinkit_analysis.sql` → SQL business analysis queries
-- `Advance-SQL/BLINKIT_ADVANCE QUERY.sql` →  Advanced Window Functions & CTEs
+- `Advance-SQL/BLINKIT_ADVANCE_QUERY.sql` →  Advanced Window Functions & CTEs
 - `blink_it dashboard.pbix` → Interactive Power BI dashboard
 - `dashboard.png` → Dashboard preview image
 - `cleaned_Blinkit.csv` → Cleaned dataset used for analysis
@@ -81,7 +81,7 @@ Upgraded from basic queries to solve complex business problems using Window Func
 ### Sample Output - Segment Ranking
 ![Top 3 Items by Outlet Type](Advance-SQL/ADVANCE_SQL_SCREENSHOTS/2_RANK_Top3_Item_By_FatContent.png)
 
-**View Code:** [Advance-SQL/BLINKIT_ADVANCE QUERY.sql](./Advance-SQL/BLINKIT_ADVANCE QUERY.sql)
+**View Code:** [Advance-SQL/BLINKIT_ADVANCE_QUERY.sql](./Advance-SQL/BLINKIT_ADVANCE_QUERY.sql)
 
 ---
 
